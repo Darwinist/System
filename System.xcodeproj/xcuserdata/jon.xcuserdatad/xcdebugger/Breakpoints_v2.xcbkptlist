@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HardwareDataSpec/main.swift"
+            timestampString = "526675993.151112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static HardwareDataSpec.System.(activeNetworkInterfaces in _015C3D35F6710B40C919DC7CFAB3C8A7)() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "HardwareDataSpec"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jon/Downloads/HardwareDataSpec/HardwareDataSpec/main.swift"
+                  timestampString = "526673910.713826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "249"
+                  endingLineNumber = "249"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.UnsafeMutablePointer&lt;__C.ifaddrs&gt;) -&gt; Swift.UnsafeMutablePointer&lt;__C.ifaddrs&gt; in static HardwareDataSpec.System.(activeNetworkInterfaces in _015C3D35F6710B40C919DC7CFAB3C8A7)() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "HardwareDataSpec"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jon/Downloads/HardwareDataSpec/HardwareDataSpec/main.swift"
+                  timestampString = "526673910.718292"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "249"
+                  endingLineNumber = "249"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HardwareDataSpec/main.swift"
+            timestampString = "526675993.151406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "251"
+            endingLineNumber = "251">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

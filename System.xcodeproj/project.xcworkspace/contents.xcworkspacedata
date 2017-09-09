@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HardwareDataSpec.xcodeproj">
+      location = "self:/Users/jon/Desktop/HardwareDataSpec/System.xcodeproj">
    </FileRef>
 </Workspace>
